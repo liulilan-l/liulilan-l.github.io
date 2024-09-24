@@ -2,12 +2,17 @@
 <search>
   <entry>
     <title>helloworld</title>
-    <url>/2024/08/20/hello-world/</url>
+    <url>/2024/09/24/hello-world/</url>
     <content><![CDATA[<h2 id="Hello-world"><a href="#Hello-world" class="headerlink" title="Hello world"></a>Hello world</h2>]]></content>
   </entry>
   <entry>
+    <title>作业2：个人主页搭建</title>
+    <url>/2024/09/24/homework/</url>
+    <content><![CDATA[<h2 id="wxc"><a href="#wxc" class="headerlink" title="wxc"></a>wxc</h2>]]></content>
+  </entry>
+  <entry>
     <title>提交流程</title>
-    <url>/2024/09/23/test/</url>
+    <url>/2024/09/24/test/</url>
     <content><![CDATA[<h3 id="操作流程："><a href="#操作流程：" class="headerlink" title="操作流程："></a>操作流程：</h3><ol>
 <li><strong>编辑 Hexo 源文件</strong>：</li>
 </ol>
@@ -44,10 +49,5 @@
 </li>
 </ol>
 ]]></content>
-  </entry>
-  <entry>
-    <title>作业2：个人主页搭建</title>
-    <url>/2024/09/23/homework/</url>
-    <content><![CDATA[<h2 id="wxc"><a href="#wxc" class="headerlink" title="wxc"></a>wxc</h2>]]></content>
   </entry>
 </search>
