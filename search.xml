@@ -1,21 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>作业2：亻尔女子</title>
+    <title>helloworld</title>
     <url>/2024/08/20/hello-world/</url>
-    <content><![CDATA[<p>看到的人是我儿子</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<h2 id="Hello-world"><a href="#Hello-world" class="headerlink" title="Hello world"></a>Hello world</h2>]]></content>
+  </entry>
+  <entry>
+    <title>提交流程</title>
+    <url>/2024/09/23/test/</url>
+    <content><![CDATA[<h3 id="操作流程："><a href="#操作流程：" class="headerlink" title="操作流程："></a>操作流程：</h3><ol>
+<li><strong>编辑 Hexo 源文件</strong>：</li>
+</ol>
+<span id="more"></span>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<ul>
+<li>在本地编辑 Hexo 博客的源文件，包括文章、页面、主题配置等。</li>
+</ul>
+<ol start="2">
+<li><p><strong>生成静态文件</strong>：</p>
+<ul>
+<li><p>在 Hexo 根目录下执行以下命令，生成最新的静态文件：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure></li>
+</ul>
+</li>
+<li><p><strong>查看生成结果</strong>（可选）：</p>
+<ul>
+<li><p>本地预览：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure></li>
+</ul>
+</li>
+<li><p><strong>添加和提交更改</strong>：</p>
+<ul>
+<li><p>进入<code>public</code>：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -m <span class="string">&quot;Update blog content&quot;</span></span><br></pre></td></tr></table></figure></li>
+</ul>
+</li>
+<li><p><strong>推送更新到远程仓库</strong>：</p>
+  <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git push origin master</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<ul>
+<li>这会将 <code>public</code> 文件夹中的最新静态文件推送到你在云主机或者其他远程服务器上的 Hexo 博客对应的仓库中。</li>
+</ul>
+</li>
+</ol>
 ]]></content>
+  </entry>
+  <entry>
+    <title>作业2：个人主页搭建</title>
+    <url>/2024/09/23/homework/</url>
+    <content><![CDATA[<h2 id="wxc"><a href="#wxc" class="headerlink" title="wxc"></a>wxc</h2>]]></content>
   </entry>
 </search>
