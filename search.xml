@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>helloworld</title>
+    <url>/2024/09/24/hello-world/</url>
+    <content><![CDATA[<h2 id="Hello-world"><a href="#Hello-world" class="headerlink" title="Hello world"></a>Hello world</h2>]]></content>
+  </entry>
+  <entry>
     <title>提交流程</title>
     <url>/2024/09/24/test/</url>
     <content><![CDATA[<h3 id="操作流程："><a href="#操作流程：" class="headerlink" title="操作流程："></a>操作流程：</h3><ol>
@@ -11,7 +16,7 @@
 <ul>
 <li>在本地编辑 Hexo 博客的源文件，包括文章、页面、主题配置等。</li>
 </ul>
-<ol>
+<ol start="2">
 <li><p><strong>清理缓存</strong>：</p>
 <ul>
 <li>在 Hexo 根目录下：<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure></li>
@@ -29,10 +34,5 @@
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git pull origin main   </span><br></pre></td></tr></table></figure></li>
 </ol>
 ]]></content>
-  </entry>
-  <entry>
-    <title>helloworld</title>
-    <url>/2024/09/24/hello-world/</url>
-    <content><![CDATA[<h2 id="Hello-world"><a href="#Hello-world" class="headerlink" title="Hello world"></a>Hello world</h2>]]></content>
   </entry>
 </search>
